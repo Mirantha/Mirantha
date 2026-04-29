@@ -60,9 +60,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://seylannews.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-seylannews.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+ 
   <a href="https://www.linkedin.com/in/miranthameewana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mirantha_Meewana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
