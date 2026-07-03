@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on **[Fiverr.com](https://www.fiverr.com/mirantha88)**
-- 💼 **5+ Years** of professional Web Development experience
+- 💼 **10+ Years** of professional Web Development experience
 - ☁️ Experienced in **Microsoft Azure Cloud** & **Windows Server**
 - 🌱 Passionate about building scalable and high-performance web applications
 - 📍 Based in **Sri Lanka**
