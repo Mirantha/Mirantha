@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Cloud Solutions Specialist 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;10+Years+of+Experience;PHP+%7C+Laravel+%7C+React+%7C+Vue.js;Microsoft+Azure+%7C+Windows+Server" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;10+Years+of+Experience;PHP+%7C+Laravel+%[...]
 </p>
 
 ---
@@ -61,7 +61,9 @@
 ## 🌐 Connect With Me
 
 <p align="left">
- 
+  <a href="https://portfolio-taupe-two-l49s0evljt.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/miranthameewana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mirantha_Meewana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
