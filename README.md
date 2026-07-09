@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Cloud Solutions Specialist 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;10+Years+of+Experience;PHP+%7C+Laravel+%[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;10+Years+of+Experience;PHP+%7C+Laravel+%7C+Node.js;React+%7C+Vue.js;Cloud+Solutions+Specialist" alt="Typing Animation" />
 </p>
 
 ---
