@@ -47,8 +47,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirantha&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirantha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/Mirantha">
+    <img src="https://img.shields.io/badge/GitHub-Contributions-blue?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
