@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Mirantha&theme=tokyonight&hide_border=true](https://streak-stats-mira.vercel.app/?user=Mirantha&theme=dark)](https://streak-stats-mira.vercel.app/?user=Mirantha&theme=dark)" width="60%" />
+  <img src="https://streak-stats-mira.vercel.app/?user=Mirantha&theme=dark&hide_border=true" width="60%" />
 </p>
 
 ---
