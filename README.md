@@ -47,9 +47,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Mirantha">
-    <img src="https://img.shields.io/badge/GitHub-Contributions-blue?style=for-the-badge" />
-  </a>
+  <img src="https://YOUR-ACTIVITY-PROJECT.vercel.app/graph?username=Mirantha&theme=react-dark&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
