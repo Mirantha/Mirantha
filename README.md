@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirantha&theme=react-dark&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph-eta-weld.vercel.app/graph?username=Mirantha&theme=react-dark&hide_border=true&v=2" width="95%" />
 </p>
 ---
 
