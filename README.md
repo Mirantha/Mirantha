@@ -56,6 +56,9 @@
   <img src="https://streak-stats-mira.vercel.app/?user=Mirantha&theme=dark&hide_border=true" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirantha&theme=react-dark&hide_border=true" width="95%" />
+</p>
 ---
 
 ## 🌐 Connect With Me
